@@ -1,0 +1,16 @@
+footer {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+footer hr {
+    margin: 0 auto;
+    width: 60%;
+    border: solid crimson 1px;
+    border-radius: 30px;
+}
+
+#footerp {
+    padding: 10px;
+}
