@@ -48,6 +48,8 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
     padding: 20px;
+    text-shadow: 3px 3px 3px black;
+
 }
 
 #gp1 {
